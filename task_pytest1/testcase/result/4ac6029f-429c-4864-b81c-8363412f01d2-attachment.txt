@@ -1,0 +1,3 @@
+[32mINFO    [0m root:conftest.py:24 加法测试开始
+[32mINFO    [0m root:conftest.py:15 开始计算
+[32mINFO    [0m root:conftest.py:17 结束计算

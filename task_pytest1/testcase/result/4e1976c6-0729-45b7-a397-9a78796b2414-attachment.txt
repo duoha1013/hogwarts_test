@@ -1,0 +1,4 @@
+[32mINFO    [0m root:conftest.py:39 开始计算
+[32mINFO    [0m root:test_div_optimization.py:27 该数据类型不支持
+[32mINFO    [0m root:conftest.py:41 结束计算
+[32mINFO    [0m root:conftest.py:34 除法测试完成

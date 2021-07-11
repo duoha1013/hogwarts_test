@@ -1,73 +1,128 @@
-INFO     root:test_div.py:18 除法测试开始
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:53 除数为0，无法计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:53 除数为0，无法计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:53 除数为0，无法计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:53 除数为0，无法计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:53 除数为0，无法计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:50 字符类型不支持除法运算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:50 字符类型不支持除法运算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:50 字符类型不支持除法运算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:25 开始计算
-INFO     root:test_div.py:50 字符类型不支持除法运算
-INFO     root:test_div.py:28 结束计算
-INFO     root:test_div.py:22 除法测试完成
+2021-07-11 20:24:31 [INFO] 加法测试开始 (conftest.py:24)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:15)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:17)
+2021-07-11 20:24:31 [INFO] 加法测试完成 (conftest.py:26)
+2021-07-11 20:24:31 [INFO] 除法测试开始 (conftest.py:32)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 除数不能为0 (test_div_optimization.py:25)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 除数不能为0 (test_div_optimization.py:25)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 除数不能为0 (test_div_optimization.py:25)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 除数不能为0 (test_div_optimization.py:25)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 除数不能为0 (test_div_optimization.py:25)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:31 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:31 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:31 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:32 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:32 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:32 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:32 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:32 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:32 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:32 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:32 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:32 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:32 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:32 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:32 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:32 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:32 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:32 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:32 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:32 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:32 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:32 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:32 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 开始计算 (conftest.py:39)
+2021-07-11 20:24:32 [INFO] 该数据类型不支持 (test_div_optimization.py:27)
+2021-07-11 20:24:32 [INFO] 结束计算 (conftest.py:41)
+2021-07-11 20:24:32 [INFO] 除法测试完成 (conftest.py:34)

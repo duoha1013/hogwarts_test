@@ -1,0 +1,3 @@
+[32mINFO    [0m root:conftest.py:39 开始计算
+[32mINFO    [0m root:test_div_optimization.py:25 除数不能为0
+[32mINFO    [0m root:conftest.py:41 结束计算

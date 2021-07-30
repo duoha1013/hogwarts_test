@@ -6,10 +6,11 @@
 ===============
 """
 import logging
-
+import allure
 import pytest
 from task_pytest1.homework import calculator
 
+@allure.feature("加法")
 class TestAdd:
 
     def setup_class(self):
